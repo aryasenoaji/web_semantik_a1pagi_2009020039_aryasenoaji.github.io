@@ -1,0 +1,1 @@
+<h2>Selamat Datang di Halaman WEB Kampus Universitas Muhammadiyah Sumatera Utara</h2>
